@@ -1,2 +1,4 @@
 .vscode
 mykernel.bin
+kernel.o
+loader.o
