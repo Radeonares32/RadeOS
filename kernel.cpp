@@ -22,6 +22,5 @@ extern "C" void callConstructors()
 extern "C" void kernelMain(void *multiboot_structure, unsigned int magicnumber)
 {
     printf("Hello  Kernel");
-    while (1)
-        ;
+    while (1);
 }
